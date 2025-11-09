@@ -20,7 +20,7 @@ A recursão permite percorrer a árvore sem laços, visitando cada nó em pré-o
 > Qual a diferença entre recursão e laço (for/while)?
  A recursão chama a função dentro de si mesma, enquanto o laço repete um bloco de código até que uma condição seja satisfeita.s
 
-## Implementação – 
+## Implementação 
 
 Implementação da Árvore Binária inserir(int valor): Insere um valor na árvore. 
 
